@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/HandDrawing.unity
+    guid: 0d0cd1e59a9ec485195457dc049c1e2e
+  - enabled: 0
     path: Assets/Scenes/HandTrackingDemo.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
